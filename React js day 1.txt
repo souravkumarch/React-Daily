@@ -1,0 +1,25 @@
+React js day 1
+===============
+React js ka ek library hai
+->single page rendering 
+->fast ui
+😊user experience 
+->fast
+->react me component based architecture follow hota hai
+===========================================================
+SPA -> single page Application
+index.html
+--------------
+|            |
+|            |
+|            |
+--------------
+ components -> basic building of react /section 
+yaha sections ko components bolte hai 
+hum components ko reusability ke liye use karte hai
+===================================================
+React js + bundler(vite)
+
+bundler -> iska kaam hota saare files ko ek sath bundle banane ke liye
+Jordan walke- created react in 2011
+react 2011 me closed project tha fir 2013 me open source kiya gya
