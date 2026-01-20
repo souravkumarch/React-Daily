@@ -1,3 +1,4 @@
+import Counter from "./Counter"
 import Hooks from "./Hooks"
 
 
@@ -6,10 +7,11 @@ function App(){
     alert("Working......"+a)
   }
   function add(a,b){
-    document.write(a+b)
+   
   }
   return(
     <>
+    <Counter />
     <button onClick={demo}>Click</button>
     <button onClick={()=>{
       demo(10)
